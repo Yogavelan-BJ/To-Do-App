@@ -1,4 +1,6 @@
 <h1>To-Do APP</h1>
+
+<h3>Project Screenshot</h3>
 ![TODO_App](https://github.com/Yogavelan-BJ/To-Do-App/assets/122815384/3a04be76-bdc8-4b3c-b3b1-6d325885873b)
 
 <h3>Features:</h3>
